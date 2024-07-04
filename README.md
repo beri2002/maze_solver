@@ -22,7 +22,7 @@ This repository contains a Python script for solving mazes using the A* search a
 3. **Run the script:**
 
     ```bash
-    python main.py
+    python solver.py
     ```
 
     - follow the instruction on the screen
