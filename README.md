@@ -25,6 +25,8 @@ This repository contains a Python script for solving mazes using the A* search a
     python main.py
     ```
 
+    - follow the instruction on the screen
+
 5. **Check the `solved` directory for the solved maze image:**
 
-    The solved maze image will be saved in the `solved` directory with the same name as the original file.
+    The solved maze image will be saved in the `solved` directory.
