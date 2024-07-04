@@ -1,7 +1,7 @@
 from maze import Maze
-from a_star import AStar
-from bfs import BFS
-from dfs import DFS
+from algos.a_star import AStar
+from algos.bfs import BFS
+from algos.dfs import DFS
 
 def main():
     maze_file_path = "/home/beri/Documents/maze_solver/mazes/normal.png"
